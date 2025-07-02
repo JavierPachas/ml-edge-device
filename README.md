@@ -1,4 +1,4 @@
-#ML on Edge Devices
+**ML on Edge Devices**
 
 ```
 curl -O https://dl.google.com/coral/edgetpu_api/edgetpu_runtime_20201204.zip
