@@ -40,11 +40,9 @@ python classify_image.py \
   --input images/common-fly.png
 ```
 
-USB Accelerator | Coral
+[USB Accelerator | Coral](https://coral.ai/) 
 
-{https://coral.ai/} 
-
-{https://coral.ai/products/accelerator}
+(https://coral.ai/products/accelerator)
 
 
 ```
