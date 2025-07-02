@@ -126,5 +126,3 @@ cython_debug/
 .vscode/
 
 # Large files
-edgetpu_runtime/
-edgetpu_runtime_20201204.zip
