@@ -41,8 +41,10 @@ python classify_image.py \
 ```
 
 USB Accelerator | Coral
-https://coral.ai/ 
-https://coral.ai/products/accelerator
+
+{https://coral.ai/} 
+
+{https://coral.ai/products/accelerator}
 
 
 ```
